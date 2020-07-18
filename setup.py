@@ -7,7 +7,7 @@ Django-Query
 from setuptools import setup
 
 setup(
-    name='Django-Query',
+    name='Sookie-Django-Query',
     version='0.0.1',
     url='https://github.com/huangdingbo/django-query',
     license='BSD',
@@ -15,7 +15,7 @@ setup(
     author_email='378969398@qq.com',
     description='通过对象创建sql语句',
     long_description=__doc__,
-    packages=['django_query'],
+    packages=['sookie_django_query'],
     zip_safe=False,
     include_package_data=True,
     platforms='any',

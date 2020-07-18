@@ -1,5 +1,5 @@
-from django_query.BetweenCondition import BetweenCondition
-from django_query.CommonExpressBuilder import CommonExpressBuilder
+from sookie_django_query.BetweenCondition import BetweenCondition
+from sookie_django_query.CommonExpressBuilder import CommonExpressBuilder
 
 
 class BetweenConditionBuilder(CommonExpressBuilder):

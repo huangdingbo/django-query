@@ -1,20 +1,20 @@
-from django_query.BetweenConditionBuilder import BetweenConditionBuilder
-from django_query.ConjunctionConditionBuilder import ConjunctionConditionBuilder
-from django_query.ExpressionInterface import ExpressionInterface
-from django_query.HashCondition import HashCondition
-from django_query.InConditionBuilder import InConditionBuilder
-from django_query.LikeConditionBuilder import LikeConditionBuilder
-from django_query.NotCondition import NotCondition
-from django_query.AndCondition import AndCondition
-from django_query.OrCondition import OrCondition
-from django_query.BetweenCondition import BetweenCondition
-from django_query.InCondition import InCondition
-from django_query.LikeCondition import LikeCondition
-from django_query.SimpleCondition import SimpleCondition
-from django_query.Handler import Handler
-from django_query.HashConditionBuilder import HashConditionBuilder
-from django_query.NotConditionBuilder import NotConditionBuilder
-from django_query.SimpleConditionBuilder import SimpleConditionBuilder
+from sookie_django_query.BetweenConditionBuilder import BetweenConditionBuilder
+from sookie_django_query.ConjunctionConditionBuilder import ConjunctionConditionBuilder
+from sookie_django_query.ExpressionInterface import ExpressionInterface
+from sookie_django_query.HashCondition import HashCondition
+from sookie_django_query.InConditionBuilder import InConditionBuilder
+from sookie_django_query.LikeConditionBuilder import LikeConditionBuilder
+from sookie_django_query.NotCondition import NotCondition
+from sookie_django_query.AndCondition import AndCondition
+from sookie_django_query.OrCondition import OrCondition
+from sookie_django_query.BetweenCondition import BetweenCondition
+from sookie_django_query.InCondition import InCondition
+from sookie_django_query.LikeCondition import LikeCondition
+from sookie_django_query.SimpleCondition import SimpleCondition
+from sookie_django_query.Handler import Handler
+from sookie_django_query.HashConditionBuilder import HashConditionBuilder
+from sookie_django_query.NotConditionBuilder import NotConditionBuilder
+from sookie_django_query.SimpleConditionBuilder import SimpleConditionBuilder
 
 
 class QueryBuilder(object):

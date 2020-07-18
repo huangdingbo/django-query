@@ -1,6 +1,6 @@
-from django_query.BaseQuery import BaseQuery
-from django_query.QueryBuilder import QueryBuilder
-from django_query.DB import DB
+from sookie_django_query.BaseQuery import BaseQuery
+from sookie_django_query.QueryBuilder import QueryBuilder
+from sookie_django_query.DB import DB
 
 
 class Query(BaseQuery):

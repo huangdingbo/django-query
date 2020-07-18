@@ -1,5 +1,5 @@
-from django_query.CommonExpressBuilder import CommonExpressBuilder
-from django_query.NotCondition import NotCondition
+from sookie_django_query.CommonExpressBuilder import CommonExpressBuilder
+from sookie_django_query.NotCondition import NotCondition
 
 
 class NotConditionBuilder(CommonExpressBuilder):

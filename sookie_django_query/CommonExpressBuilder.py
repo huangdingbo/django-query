@@ -1,5 +1,5 @@
 from abc import ABCMeta, abstractmethod
-from django_query.ExpressionInterface import ExpressionInterface
+from sookie_django_query.ExpressionInterface import ExpressionInterface
 
 
 class CommonExpressBuilder(metaclass=ABCMeta):

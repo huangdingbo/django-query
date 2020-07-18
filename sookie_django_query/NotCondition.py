@@ -1,4 +1,4 @@
-from django_query.ConditionInterface import ConditionInterface
+from sookie_django_query.ConditionInterface import ConditionInterface
 
 
 class NotCondition(ConditionInterface):

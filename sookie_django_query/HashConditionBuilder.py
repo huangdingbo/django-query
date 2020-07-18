@@ -1,5 +1,5 @@
-from django_query.CommonExpressBuilder import CommonExpressBuilder
-from django_query.HashCondition import HashCondition
+from sookie_django_query.CommonExpressBuilder import CommonExpressBuilder
+from sookie_django_query.HashCondition import HashCondition
 
 
 class HashConditionBuilder(CommonExpressBuilder):

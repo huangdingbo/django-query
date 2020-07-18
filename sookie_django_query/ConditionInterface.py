@@ -1,4 +1,4 @@
-from django_query.ExpressionInterface import ExpressionInterface
+from sookie_django_query.ExpressionInterface import ExpressionInterface
 from abc import ABCMeta, abstractmethod
 
 

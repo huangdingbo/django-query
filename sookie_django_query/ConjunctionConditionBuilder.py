@@ -1,5 +1,5 @@
-from django_query.CommonExpressBuilder import CommonExpressBuilder
-from django_query.ExpressionInterface import ExpressionInterface
+from sookie_django_query.CommonExpressBuilder import CommonExpressBuilder
+from sookie_django_query.ExpressionInterface import ExpressionInterface
 
 
 class ConjunctionConditionBuilder(CommonExpressBuilder):

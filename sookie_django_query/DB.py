@@ -1,7 +1,7 @@
 from django.conf import settings
-from django_query.MysqlDB import MysqlDB
+from sookie_django_query.MysqlDB import MysqlDB
 from DBUtils.PooledDB import PooledDB
-from django_query.PoolDB import PoolDB
+from sookie_django_query.PoolDB import PoolDB
 
 
 class DB(object):

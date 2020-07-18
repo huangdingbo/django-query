@@ -3,3 +3,6 @@
 .DS_Store
 /venv
 /__pycache__
+/dist
+/Django_Query.egg-info
+/Sookie_Django_Query.egg-info

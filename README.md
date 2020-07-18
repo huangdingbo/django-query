@@ -1,7 +1,7 @@
 # Django-Query 使用说明
 
 ## 一、安装
-pip install Django-Query
+pip install Sookie-Django-Query
 
 ## 使用
 

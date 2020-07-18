@@ -1,4 +1,4 @@
-from django_query.ConjunctionCondition import ConjunctionCondition
+from sookie_django_query.ConjunctionCondition import ConjunctionCondition
 
 
 class OrCondition(ConjunctionCondition):

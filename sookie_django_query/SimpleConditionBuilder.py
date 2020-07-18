@@ -1,5 +1,5 @@
-from django_query.CommonExpressBuilder import CommonExpressBuilder
-from django_query.SimpleCondition import SimpleCondition
+from sookie_django_query.CommonExpressBuilder import CommonExpressBuilder
+from sookie_django_query.SimpleCondition import SimpleCondition
 
 
 class SimpleConditionBuilder(CommonExpressBuilder):

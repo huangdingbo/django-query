@@ -1,6 +1,6 @@
-from django_query.CommonExpressBuilder import CommonExpressBuilder
-from django_query.Handler import Handler
-from django_query.InCondition import InCondition
+from sookie_django_query.CommonExpressBuilder import CommonExpressBuilder
+from sookie_django_query.Handler import Handler
+from sookie_django_query.InCondition import InCondition
 
 
 class InConditionBuilder(CommonExpressBuilder):

@@ -1,4 +1,4 @@
-from django_query.SimpleCondition import SimpleCondition
+from sookie_django_query.SimpleCondition import SimpleCondition
 
 
 class LikeCondition(SimpleCondition):
